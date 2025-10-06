@@ -5,6 +5,5 @@ In the end, summary of the sales, the inventory remaining and the top sellers in
 
 ```
 Year coded: 2020
-Semester : 1st semester
 Language used: C
 ```
